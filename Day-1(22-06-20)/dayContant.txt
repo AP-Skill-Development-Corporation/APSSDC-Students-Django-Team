@@ -1,0 +1,73 @@
+Today Objectives
+-----------------
+1.Installations
+-->required version for this 3.6
+-->Sublime TextEditor
+
+2.Functions in Python
+
+ Function:
+ ---------
+ -->Group of related statements that performs a spacific task
+ -->Code Reusability
+ -->Reduce length of the code
+ we have two diff type functions
+	1.BulitIn Functions 
+	-->Print()
+	2.User Defined Functions
+	-->User can defines ourself
+	Syntax:
+	--------
+	def FunName():
+	    .
+	    .
+	    .
+	    .
+	    .
+	FunName()
+	
+
+3.Python OOP'S
+
+-->Class
+-->Object
+-->Contructors
+-->Inheritance
+
+Class:
+------
+-->It is a collections of variables and methods
+Funtion:it is collections of statements
+Method:if function is existed inside the class then we will call method
+
+Syntax:
+-------
+class className:
+     -->list of variables
+     -->list of methods
+
+Object:
+-------
+-->It is a instance of a class
+
+syntax:
+-------
+
+obj_name=class_name
+
+Constructors:
+------------
+-->The Main Advantage of constructor is without using objects we will call the function
+
+class ClassName:
+    def __init__(self):# it is contructor
+    def __init__(self,a,b):
+    def __init__(a,b,self):
+
+
+
+
+
+
+
+
