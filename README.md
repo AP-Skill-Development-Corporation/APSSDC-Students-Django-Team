@@ -7,3 +7,11 @@ Please update your daily wise class content
   - Class
   - Object
   - Contructors
+##### [Day 1 Video Link]()
+
+### Day2(23-06-2020)
+- 1.Inheritance
+- 2.Modules
+- 3.Packages
+
+##### [Day 2 Video Link]()
