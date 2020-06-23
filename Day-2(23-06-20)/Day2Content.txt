@@ -1,0 +1,41 @@
+Today Objectives
+----------------
+1.Inheritance
+2.Modules
+3.Packages
+
+1.Inheritance
+--------------
+
+-->we are inherting something from parent class to child class
+
+General Format is: 
+	class ChildClass(ParentClass)
+
+We have diff types in inheritance
+
+1.Single level inheritance
+
+  -->There is only one parent class and any one child class
+
+2.Multilevel Inheritance
+  
+ --> one or more parents classes and one or more childs classes
+
+3.Multiple Inheritance
+ 
+ -->More then one parent class and one child class
+
+Modules:
+--------
+-->Module is a .py file
+-->Module contains collection of functions and classes
+
+-->for accessing the module we are using import keyword
+
+
+
+
+
+
+
