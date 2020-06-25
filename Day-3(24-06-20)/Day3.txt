@@ -1,0 +1,52 @@
+GoodMorning to all:
+...................
+Django:
+=======
+* Framework:
+	-->its provide a standard way to deploy web applications.
+	  ex:real time Toolkit
+	-->python frameworsk:
+	    * Django(big applications)
+	    * Flask(lightweight applicatins)
+	    * web2py()
+	    * cherrypy()
+	    * etc..
+	--> why we use django?
+		*pyhton webframe work is code libriery that privides tools tosolve common web development aplications.
+		* secure
+		* scalble
+		* fullyloaded
+		* opensource
+	-->MVT	
+* we need to follow one architecture for working on webapplications
+* MVC
+	-->model view controller
+	-->model:it maintains entire db part
+	-->view: it contains all html files()
+	-->controller:interface b/w view and model,logics
+
+
+* MVT:
+	-->model view template
+	...>model:db part
+	...>views:logics
+	...>templates:all html files
+* Django installation
+	-->pip install Django
+* project creation
+	-->django-admin startproject Dummy
+	-->manage.py:
+		* interface b/w cmd and project
+		* project run
+		* db file
+		* python shell
+	..>__init__:packages,python file
+	..>settings:apps inclue,db create,session,middlewares,static
+	..>urls: browser url related ouput
+	..>wsgi:hosting
+
+	* python manage.py runserver
+
+
+
+* App creation
