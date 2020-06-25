@@ -17,5 +17,9 @@ Please update your daily wise class content
 #### [Day 2 Video Link](https://transcripts.gotomeeting.com/#/s/06c8d490a64f8750ff963ef4f0b2ca495dde4755f5d60e8cf1883777b00d622f)
 
 #### Day3(24-06-2020)
+- 1.Introduction to Dajngo
+- 2.MVC&MVT
+- 3.Django Installation
+- 4.Creating a Project
 
 #### [Day 3 Video Link](https://transcripts.gotomeeting.com/#/s/2830f4f3dfccaf3c26ad05dd553e45b7621f029929757e7eb31dabe2b4d003c1)
