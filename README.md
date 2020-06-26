@@ -28,3 +28,5 @@ Please update your daily wise class content
 
 
 #### [Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
+
+### [Day 5 Video Link](https://transcripts.gotomeeting.com/#/s/842d039679cd7c32d4095d27b1a7111fecfd01ee0e53f57cbeed22463505cf94)
