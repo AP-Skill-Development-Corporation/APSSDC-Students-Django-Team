@@ -23,3 +23,8 @@ Please update your daily wise class content
 - 4.Creating a Project
 
 #### [Day 3 Video Link](https://transcripts.gotomeeting.com/#/s/2830f4f3dfccaf3c26ad05dd553e45b7621f029929757e7eb31dabe2b4d003c1)
+
+### Day4(25-06-2020)
+
+
+####[Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
