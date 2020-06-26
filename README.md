@@ -25,8 +25,16 @@ Please update your daily wise class content
 #### [Day 3 Video Link](https://transcripts.gotomeeting.com/#/s/2830f4f3dfccaf3c26ad05dd553e45b7621f029929757e7eb31dabe2b4d003c1)
 
 ### Day4(25-06-2020)
+- 1.App Creation
+- 2.URL & Daynamic URL Building
 
 
 #### [Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
 
+
+### Day4(26-06-2020)
+- 1.HTTP Request and Responsce
+- 2.introduction to HTML
+- 3.Introduction to CSS
+- 4.Java Script
 ### [Day 5 Video Link](https://transcripts.gotomeeting.com/#/s/842d039679cd7c32d4095d27b1a7111fecfd01ee0e53f57cbeed22463505cf94)
