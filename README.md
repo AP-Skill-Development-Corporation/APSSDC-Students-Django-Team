@@ -27,4 +27,4 @@ Please update your daily wise class content
 ### Day4(25-06-2020)
 
 
-####[Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
+#### [Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
