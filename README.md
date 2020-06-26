@@ -32,7 +32,7 @@ Please update your daily wise class content
 #### [Day 4 Video Link](https://transcripts.gotomeeting.com/#/s/b465be15008b9f059951b4f80eaeb5adc756e51a28febc9e66d53d745281c5cb)
 
 
-### Day4(26-06-2020)
+### Day5(26-06-2020)
 - 1.HTTP Request and Responsce
 - 2.introduction to HTML
 - 3.Introduction to CSS
