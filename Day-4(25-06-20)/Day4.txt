@@ -1,0 +1,47 @@
+GoodMorning to all(Day-4):
+..........................
+
+* App Creation:
+	-->python manage.py startapp appname
+	            (or)
+	-->Django-admin startapp appname
+
+	migrations: db connections
+
+	* we need to register the app in project..>settings.py
+
+* HttpResponse and request:
+...........................
+
+HttpRequest:
+============
+	--> two mwthods:1)POST
+					2)GET
+	-->user sends request from url...>GET
+	-->user send req from html..>POST
+HttpResponse:
+=============
+	-->user request...it will give response
+Dynamic  url:
+.............
+
+Templates:.
+.............
+app-->templates--->appname(folder)-->html files
+
+Task:
+......
+url....>hello/satheesh/566
+
+o/p:  welcome satheesh your roll no is 566
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,139 @@
+Goodmorning to all(Day5):
+==========================
+
+* Templates:
+
+
+* Data displaying in html pages
+
+		-->{% for i in range() %}
+
+			{% endfor %}
+
+		-->{% if condition %}
+
+
+		-->{% endif %}
+
+* form html
+	
+	-->{% csrf_token %}\
+
+
+
+HTML:
+.......
+
+* frontend designing
+* tags
+* <html>
+<br>
+<body>
+<head>
+<title>
+
+Html structure:
+................
+
+<html>
+	<head>
+       <scripts></scripts>
+       <external sources><frameworks)bootstrap(>
+       <style>
+       <title>
+	</head>
+
+	<body>
+
+		<view>
+
+	<body>
+
+
+<html>
+
+
+
+<tags></tags>
+<br>...break line
+<hr>...header line
+<input>..textboxes
+<a>...>page navigation
+<img>..<images>
+<form><data form>
+<table>....tables
+<tr> row
+<td>..fields
+<th>..heading
+<iframe>..youtube.
+<ol><ul>
+<h1>....<h6>
+<p>
+<footer>
+
+CSS:
+=====
+-->inline
+-->internal
+-->external
+js:
+.....
+alert()
+
+Task:
+=====
+register.html
+after submit
+o/p: welcome {{name}} your mail id{{email}}
+
+....>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
