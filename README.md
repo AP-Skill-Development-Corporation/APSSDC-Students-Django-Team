@@ -38,3 +38,9 @@ Please update your daily wise class content
 - 3.Introduction to CSS
 - 4.Java Script
 ### [Day 5 Video Link](https://transcripts.gotomeeting.com/#/s/842d039679cd7c32d4095d27b1a7111fecfd01ee0e53f57cbeed22463505cf94)
+
+
+### Day6(27-06-2020)
+
+
+### [Day 6 Video Link](https://transcripts.gotomeeting.com/#/s/d3f7b5358137c0db24fbd5181e5cc2c0bd8c3492b3c772c8c5265fd2f3e846e8)
