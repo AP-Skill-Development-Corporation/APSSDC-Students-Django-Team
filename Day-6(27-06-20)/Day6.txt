@@ -1,0 +1,91 @@
+Good Morning to all(Day6):
+==========================
+
+Task?
+
+static files handling:
+    ------------------------------
+    ==> we have to create a static folder inside our app
+    -- in that static folder we will store css,js and image files
+    --> foraccessing those static files we have define
+        STATIC_URL = 'static' in settings.py
+    --. for loading this static file we have to define a statement inside
+        templates(.html)
+                {% load static %}
+
+==> bootsrap in Dajngo:
+    1)bootstrap.min.css
+    2)jquery.min.js
+    3)bootstrap.min.js
+    --> we have to mention links  direclty in style tag
+    --> second way is we have to download bootstrap files from respective source then
+    place all those files inside static folder
+
+Task:
+.....
+(1)
+url:table/5
+o/p:
+5*1=5
+5*2=10
+.
+.
+.
+5*10=50
+
+(2) user static validation
+
+login.html
+
+username
+password
+
+Apssdc
+Apssdc@123
+
+login success HttpResponse
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day7:
+=========
+==> -->django Admin
+        --> models in Django
+        
+==>Sqlite3:
+                -->it is a database like mysql,oracle etc.
+                --> but its not preforble for developing lorge applications
+                --> without installing any software we can use this db that means it
+                    store all data inside our harddisk only.
+                --> to access this sqlite3 we have to install sqlite3 driver
+==>Django Admin:
+            --> admin can able to create new user,update existing user
+                    delete existing user.
+            --> for admin we  have to create a tables
+                 i.e python manage.py migrate
+            --> to access these admin we have to create superuser
+                account
+                -->for that we have to run a command
+                i.e python manage.py createsuperuser
+==>Models:
+            --> in models .py we will create one or more classes
+            --> here each and every class will represents a db table
+            --> in this class each field maps a db column
+            --> to convert class into db table we have to run 2 commands
+                    1) python manage.py makemigrations
+                            -- this command will generate a interface file,it will
+                            prepare that file to convert classs to db table
+                    2) python manage.py migrate
+                            --- this command will create db tables using generated
+                            interface file
+					Emp(fisrt_name='',last_name='kumar')
