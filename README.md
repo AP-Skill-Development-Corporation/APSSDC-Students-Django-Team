@@ -43,7 +43,7 @@ _____
 - 2.BootStrap
 
 ### [Day 6 Video Link](https://transcripts.gotomeeting.com/#/s/d3f7b5358137c0db24fbd5181e5cc2c0bd8c3492b3c772c8c5265fd2f3e846e8)
-
+_____
 ### Day7(29-06-2020)
 - 1.SuperUser Creation and Roles of the SuperUser
 - 2.Models in Django
