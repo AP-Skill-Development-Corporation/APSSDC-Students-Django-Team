@@ -1,0 +1,18 @@
+Topics:
+-------
+=> Superuser creation 
+  --> python manage.py migrate
+  --> python manage.py createsuperuser
+=> Roles of Superuser
+  --> superuser/admin can add,delete,update,read all the users info
+=> Models in Django
+  --> in models.py, we create classes
+  --> each class represents a database table
+  Database: 
+   Oracle,mysql,postgresql...etc
+   Django using sqlite3 database for creating tables
+ --> to convert our model we have to run two commands
+  -> python manage.py makemigrations
+     --> It will create an interface file between our model and database table
+  -> python manage.py migrate
+     --> used to create table
