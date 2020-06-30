@@ -47,4 +47,4 @@ _____
 ### Day7(29-06-2020)
 - 1.SuperUser Creation and Roles of the SuperUser
 - 2.Models in Django
-
+#### [Day 7 Video Link](https://transcripts.gotomeeting.com/#/s/3ce16d34aeadc8eaff97c6755019dd348e834e937c8e812be182522884be5e20)
