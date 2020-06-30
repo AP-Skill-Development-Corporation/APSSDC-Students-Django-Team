@@ -1,0 +1,90 @@
+30-06-2020
+----------
+
+Topics:
+-------
+=>ORM(Object Relational Mapping)
+-Create
+-Retrieve
+-Update
+-Delete
+
+step1:
+-----
+open Django Shell
+--> python manage.py shell
+step2:
+-----
+we have to import our model
+--> from app_name.models import class_name
+
+## Create/Insert:
+-----------------
+- save()
+   -> first create an object to the model
+      -> obj = model_name(language='value',inventor='value',date='value',place='value')
+   -> obj.save()
+- create()
+   -> model.objects.create()
+
+## Retrieve:
+------------
+- all() ---> to get all objects
+   model.objects.all()
+- get() ---> to get a particular record (single)
+  model.objects.get(field_name='value')
+- filter ----> to get particular record  (multiple records)
+  model.objects.filter(field_name='value')
+- first() --> to get first record in our table
+  model.objects.first()
+- last() --> for last record in our table
+  model.objects.last()
+- values()
+  model.objects.values("field_name")
+- order_by()
+ model.objects.order_by("field_name") ---> ascending order
+ model.objects.order_by("-field_name")  --> Descending order
+### Update:
+-----------
+- update()
+### Delete:
+----------
+ model.objects.all().delete() ---> this is to delete entire table data
+ model.objects.get('field_name').delete()
+ model.objects.all()[2:5].delete()
+
+
+## Task:
+---------
+1.create a model with name Library
+	Fileds:
+          1.Book_name
+          2.Department
+          3.Author
+          4.Year
+2.Insert data in the table
+3.Display the data in html as table format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
