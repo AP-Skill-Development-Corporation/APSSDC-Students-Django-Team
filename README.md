@@ -52,4 +52,4 @@ _______
 ### Day8(30-06-2020)
 - Object Relational Mapping(ORM)
 - Model Queries(Django Shell)
-#### [Day 8 Video Link]
+#### [Day 8 Video Link](https://transcripts.gotomeeting.com/#/s/956c36283f814165235587e1ba9b6882c1d3ec7c001c62b99bdcfd91657a0805)
