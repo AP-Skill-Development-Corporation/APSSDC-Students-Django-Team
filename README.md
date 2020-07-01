@@ -53,3 +53,4 @@ _______
 - Object Relational Mapping(ORM)
 - Model Queries(Django Shell)
 #### [Day 8 Video Link](https://transcripts.gotomeeting.com/#/s/956c36283f814165235587e1ba9b6882c1d3ec7c001c62b99bdcfd91657a0805)
+#### [Day 8 Second Video](https://transcripts.gotomeeting.com/#/s/bddf77c72b762fef4a3162873616326c92acbe3f053bebc865bd1be7d94fd061)
