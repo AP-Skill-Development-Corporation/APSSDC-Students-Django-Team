@@ -58,3 +58,9 @@ ______
 ### Day9(01-07-2020)
 - 1.CURD Operations using Normal Procedure
 #### [Day 9 Video Link](https://transcripts.gotomeeting.com/#/s/f3d420c6f8252b72d709d6e609c98b4af35ea573942c0df66fa705980a914010)
+
+______
+### Day10(02-07-2020)
+- 1.CURD Operations using forms
+
+### [Day 10 Video Link](https://transcripts.gotomeeting.com/#/s/df75d1d7e131864ef31e8aecd8cfd98700cbd1a2d66a520e79dcaa0be345d2c3)
