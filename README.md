@@ -66,3 +66,10 @@ ______
 ### [Day 10 Video Link](https://transcripts.gotomeeting.com/#/s/df75d1d7e131864ef31e8aecd8cfd98700cbd1a2d66a520e79dcaa0be345d2c3)
 
 ### [Day 11 Video Link](https://transcripts.gotomeeting.com/#/s/673cc0e5a64f1d2915f0927dd17692e23e7f959e4cf63ae9faa39152270528c4)
+
+### [Day 12  first Video Link](https://transcripts.gotomeeting.com/#/s/f33f8afaab70f84d2bbf7b1a455667027d650cfc16aeeb42255a8651a9042087)
+
+
+### [Day 12 Second Video Link](https://transcripts.gotomeeting.com/#/s/b2e7c9c95ff9841e74564a72139131f025dd8234bf1f1cb7bee100473d7d4212)
+### [Day 12  Thrid Video Link](https://transcripts.gotomeeting.com/#/s/ed39300316b41a4b2a0634dde9b273b389f015494151f0ec9291df7689c60f6c)
+### [Day 12  fourth Video Link](https://transcripts.gotomeeting.com/#/s/17d8c958af2eb267619637cb8cf25349b3397bb42ed10baf1c68ff8c89a00278)
