@@ -73,3 +73,9 @@ ______
 ### [Day 12 Second Video Link](https://transcripts.gotomeeting.com/#/s/b2e7c9c95ff9841e74564a72139131f025dd8234bf1f1cb7bee100473d7d4212)
 ### [Day 12  Thrid Video Link](https://transcripts.gotomeeting.com/#/s/ed39300316b41a4b2a0634dde9b273b389f015494151f0ec9291df7689c60f6c)
 ### [Day 12  fourth Video Link](https://transcripts.gotomeeting.com/#/s/17d8c958af2eb267619637cb8cf25349b3397bb42ed10baf1c68ff8c89a00278)
+
+### [Day 13 Video Link](https://transcripts.gotomeeting.com/#/s/85c340999fd01d7dd061379bce27680d53ed4249960e951751ce16987e17bf28)
+
+### [Day 14 Video Link](https://transcripts.gotomeeting.com/#/s/968d52f99db286d92408c29ca969be4fda8cf4fa072ea7892194cdc809db47be)
+
+### [Day 15 Video Link](https://transcripts.gotomeeting.com/#/s/4fe15daf2946e9f3a796ed8369381db0d6f1be776a87cbacfead759ec4665fb1)
