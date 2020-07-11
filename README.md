@@ -78,6 +78,20 @@ ______
 
 ### [Day 14 Video Link](https://transcripts.gotomeeting.com/#/s/968d52f99db286d92408c29ca969be4fda8cf4fa072ea7892194cdc809db47be)
 
+____
+### Day15
+- Change Password
+- Forgot Password
 ### [Day 15 Video Link](https://transcripts.gotomeeting.com/#/s/4fe15daf2946e9f3a796ed8369381db0d6f1be776a87cbacfead759ec4665fb1)
-
+_____
+### Day-16
+- User Authenication
+- Profile Creation
 ### [Day 16 Video Link](https://transcripts.gotomeeting.com/#/s/d5199192d980f74c2b918a3c9a4c9a4eddea30b0e09aa7c76b7e9d97bdc9cfc4)
+_____
+
+### Day17
+- Heroku Server Hosting
+### [Day 17 Video Link]
+____
+
