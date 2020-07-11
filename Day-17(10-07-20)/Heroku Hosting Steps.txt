@@ -1,0 +1,46 @@
+Today Objectives
+----------------
+
+1.Heroku deployment
+-------------------
+-->Create new Project
+-->Create your App
+-->After run the project check your server working fine or not
+-->install heroku software
+	-->https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+
+-->Create a new file in project
+	-->file name is 'Procfile'
+	-->in this file write 'web: gunicorn youprojectname.wsgi'
+
+-->'pip install freeze'
+-->'pip install requests==2.19.1'
+-->'pip install gunicorn'
+-->'pip install django-heroku'
+
+-->import this one to settings.py
+
+	-->import django_heroku
+	-->django_heroku.settings(locals())
+
+-->'pip freeze > requirements.txt'
+
+-->'heroku login'
+
+-->'heroku create unique app name'
+
+-->'git init'
+
+-->check the 'git status' 
+
+-->'git add .'
+
+-->git commit -m '1st'
+
+-->'heroku git:remote -a sdcap'
+
+-->'git push heroku master'
+
+
+
+
