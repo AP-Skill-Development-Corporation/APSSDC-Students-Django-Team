@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+</head>
+<body><center>
+	<h3>Login Page</h3>
+	<form action="{% url 'login' %}" method="POST">
+		{% csrf_token %}
+		UserName:<br><input type="text" name="username"><br><br>
+		Password:<br><input type="password" name="password"><br><br>
+		<br><input type="submit" name="Submit"><br>
+		<a href="{% url 'forgotpwd' %}">forgot Password</a>
+	</form>
+	</center>
+
+</body>
+</html>
