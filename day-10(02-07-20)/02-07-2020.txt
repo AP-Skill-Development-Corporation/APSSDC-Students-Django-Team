@@ -1,0 +1,24 @@
+Good moring to all
+------------------
+CRUD applications implementation by using forms
+
+--> include
+     --> by using include function we will navigate our 
+      request from main urls.py to app urls.py
+
+    -->first we have to create urls.py inside our app
+
+    -->you have to include 'include function' in 
+
+            from django.urls import path,include
+  
+    -->then you have to mention path like this
+
+           path('myapp2/',include('myApp2.urls')),
+
+   -->you have take one more file and save is as a
+            forms.py
+
+
+
+   
