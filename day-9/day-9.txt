@@ -1,0 +1,14 @@
+good morning to all:
+
+->Crud operatons:
+
+   c- creation of data base
+   r-read data from data base
+   u-update stored values in data base
+   d-delete value in data base
+
+   ->using basic procedure
+        here we have to create .html file then we have
+        to generate form
+   ->using forms.py
+      here there is no need to generate form
