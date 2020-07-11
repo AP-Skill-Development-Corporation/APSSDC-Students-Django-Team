@@ -1,0 +1,43 @@
+Goodmoring to all:
+------------------
+-> form creation
+-> data retrieveing 
+-> bootstrap
+ form validations:
+        client side(js)
+	server side(form.is_valid())
+
+-> update 
+-> delete
+    -> first we have to check that particular person id is
+     existed in our db or not
+   -> if id is exist in our db
+       take confirmation message from user
+          " Are you sure to delete "
+  ->if that person confirmation is True
+      ob.delete()
+Messages Generation:
+ ->in django messages is a model for generating "alerts"
+ -> from django.contrib import messages
+
+types of messages:
+  ->messages.info
+  -> messages.success
+  ->messages.warning
+  -> messages.error
+  -> messages.debug
+     messages.info(request,"your record is added successfully")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
