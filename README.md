@@ -92,6 +92,7 @@ _____
 
 ### Day17
 - Heroku Server Hosting
-### [Day 17 Video Link]
+### [Day 17 Video Link] (https://transcripts.gotomeeting.com/#/s/cb9332eaf18791e36baebd167bd34dedf36660089b9ee668d74d2c3c7e7fc3a2)
 ____
-
+ ### [Day18 Video Link] (https://transcripts.gotomeeting.com/#/s/64d644f5d3934f8fda1c1969210c9831235520be1ba1ee3afbd6c08a9d63534c)
+ 
